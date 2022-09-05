@@ -1,0 +1,30 @@
+Penousal Machado , machado@dei.uc.pt , CMS , D2.21 , 937000001
+Nuno Lourenco , naml@dei.uc.pt , ECOS , D1.13 , 937000002
+Licinio Roque , lir@dei.uc.pt , IS , D3.10 , 937000003
+Paulo Simoes , psimoes@dei.uc.pt , LCT , D3.16 , 937000004
+Henrique Madeira , henrique@dei.uc.pt , SSE , D3.2 , 937000005
+Fabio Andre da Costa Lopes , fadcl@student.dei.uc.pt , AC , Contributions to Clinical Information Extraction in Portuguese: Corpora, Named Entity Recognition, Word Embeddings , Julho 2019 , Jorge Henriques
+Mariana Seica Paiva de Carvalho , marianac@student.dei.uc.pt , CMS , O Som dos Dados: Sonificacao Musical de Emocoes expressas no Twitter , Julho 2017 , Penousal Machado
+Joao Nuno Gonçalves Costa Cavaleiro Correia , jncor@student.dei.uc.pt , ECOS , Evolutionary Computation for Assessing and Improving Classifier Performance , Setembro 2011 , Nuno Lourenço
+Joao Rodrigues de Campos , jrcampos@student.dei.uc.pt , SSE , Prediction of Mitochondrial Toxicity Indexes for Pharmacological Compounds , Julho 2017 , Henrique Madeira
+Joao Tiago Fernandes , joaonf@student.dei.uc.pt , CMS , Using Low Cost Embedded Systems for Lung Sounds Auscultation and Analysis , Julho 2017 , Penousal Machado
+Cristiana Rodrigues , crisgr@dei.uc.pt , CMS , D3.21 , 937000006
+Pedro Meira , pmeira@dei.uc.pt , ECOS , D3.22 , 937000007
+Joana Matos , jmatos@dei.uc.pt , IS , D3.23 , 937000008
+Filipe Soeiro , soeirinhoF@dei.uc.pt , LCT , D3.24 , 937000009
+Andreia Garrido , andrialex@dei.uc.pt , SSE , D3.25 , 937000010
+Joao Faria , jfaria@dei.uc.pt , AC , D3.26 , 937000011
+Henrique Acores , acores@dei.uc.pt , AC , D3.27 , 937000012
+Ana Catarina Rodrigues Silva , anacrs@student.dei.uc.pt , IS , Especificacao de workflows nos novos ambientes heterogéneos de sistemas de informacao , Julho 2006 , Joana Matos
+Miguel Oliveira Barros , mobarros@student.dei.uc.pt , LCT , Algorithms for the Min-Max Regret Minimum Spanning Tree Problem , Julho 2017 , Filipe Soeiro
+Jose Filipe Branco , jfbranco@student.dei.uc.pt , AC , Implantação de GPU de redes neurais RBF em esteganalysis de audio , Setembro 2010 , Joao Faria
+Jose Teixeira Mota , josetm@student.dei.uc.pt , ECOS , Implicit Enumeration for Representation Systems in Multi-objective Optimization , Setembro 2015 , Pedro Meira
+Sara Costa Pinto , saracpinto@student.dei.uc.pt , AC , Circuito baseado em Sistemas de Comunicação para Monitoramento de Anestesia , Agosto 2018 , Henrique Acores
+Jose Luis Vilas Boas , luisboasfestas@student.dei.uc.pt , CMS , Metodos & Data Review , Agosto 2016 , Cristana Rodrigues
+Rui Pedro Matos , rpedrom@student.dei.uc.pt , ECOS , Comparação de Algoritmos de Machine Learning para Construir um Modelo de Previsao de Defeitos em Processos de Formação de Chapas metalicas , Janeiro 2014 , Pedro Meira
+Sara Faria Garrido , sarafg@student.dei.uc.pt , IS , Metamodels de Aprendizagem Ativa para Simuladores de Transporte , Julho 2015 , Joana Matos
+Joao Paulo Costa , joaocosta@student.dei.uc.pt , IS , Utilizando Sistemas Embarcados de Baixo Custo para Auscultação e Analise de Sons Pulmonares , Agosto 2017 , Joana Matos
+Antonio Pires Souto , tonesouto@student.dei.uc.pt , LCT , Classificação de Posts em Midias Sociais de acordo com sua Relevancia , Junho 2019 , Paulo Simoes
+Manuel dos Santos Sousa , manelpires@student.dei.uc.pt , LCT , Gestao de Qualidade da Experiencia em Redes IEEE , Maio 2012 , Paulo Simoes
+Lara Faria Garrido , larafg@student.dei.uc.pt , SSE , Avaliacao da Seguranca dos Servicos Web , Janeiro 2018 , Andreia Garrido
+Carolina Garrido Martins , cgmartins@student.dei.uc.pt , SSE , Motor de Agregacao YouTrace , Julho 2011 , Andreia Garrido

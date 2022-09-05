@@ -1,0 +1,310 @@
+== Publicacao 1 ==
+Publicacao artigo de revista
+Autores: Professor Penousal Machado e J. Fernandes
+Titulo: Aprendizado federado como um aprendizado de maquina que fornece privacidade para previsões de defeitos em manufatura inteligente.
+Palavras Chave: Aprendiz, inteligencia, maquina
+Resumo: Embora diversos algoritmos de machine learning existam há muito tempo, a capacidade de aplicar cálculos matemáticos complexos ao big data automaticamente – de novo e de novo, mais rápido e mais rápido – é um desenvolvimento recente.
+Ano da Publicacao: 2017
+Dimensao da Audiencia: 1100
+Nome: Faculdade de Ciencias e Tecnologia da Universidade de Coimbra
+Data: 23/10
+Localizacao da revista: Coimbra
+
+== Publicacao 2 ==
+Publicacao artigo de conferencia
+Autores: Professor Nuno Lourenco e Professor Pedro Meira e J. Mota
+Titulo: Reduções e Abstrações para Verificação Formal de Algoritmos Baseados em Rodada Distribuídas.
+Palavras Chave: Algoritmos, Verificaçao Formal
+Resumo: O presente Artigo aborda varios algoritmos e procura varias formas de os remodelar.
+Ano da Publicacao: 2015
+Dimensao da Audiencia: 500
+Nome: Universidade de Coimbra
+Data: 2/7
+Localizacao da conferencia: Porto
+
+== Publicacao 3 ==
+Livro
+Autores: Professor Licinio Roque e A. Silva
+Titulo: Recursos de Áudio para Reconhecimento de Emoções Musicais: a Survey.
+Palavras Chave: Audio, Musica, Emocoes
+Resumo: Este livro fala sobre o Reconhecimento de Emoções Musicais sbre os quais vao ser falados e analizados Recursos de Audio.
+Ano da Publicacao: 2013
+Dimensao da Audiencia: 10500
+Editora: Novatec
+ISBN do Livro: 9876543212111
+
+== Publicacao 4 ==
+Capitulos de Livros
+Autores: Professor Paulo Simoes e M. Barros
+Titulo: Resilient Service Chains através de Replicação Inteligente.
+Palavras Chave: Replicação Inteligente, Correntes, Resilient
+Resumo: Vao abordados metodos de Replicaçao Inteligente para o chamado "Resilient Service Chains".
+Ano da Publicacao: 2017
+Dimensao da Audiencia: 11100
+Editora: Amazon
+ISBN do Livro: 9876543212300
+Nome do Capitulo: Replicação Inteligente - Fase Inicial
+Pagina de inicio: 9
+Pagina de Fim de Capitulo: 33
+
+== Publicacao 5 ==
+Livro de artigos de Conferencia
+Autores: Professor Henrique Madeira e J. Campos
+Titulo: Maturidade dos Sistemas de Informação Hospitalares.
+Palavras Chave: Hospital, Maturidade de Sistemas
+Resumo: Este Livro aborda o desenvolvimento dos sistemas de informacao dos Hospitais, avaliando assim os interfaces dos sistemas.
+Ano da Publicacao: 2018
+Dimensao da Audiencia: 2500
+Editora: Viena
+ISBN do Livro: 9876543212345
+Nome da Conferencia: Networking Conference
+Numero de Artigos: 20
+
+== Publicacao 6 ==
+Publicacao artigo de revista
+Autores: Professor Joao Faria e S. Pinto
+Titulo: Aprendizagem Computacional em Engenharia
+Palavras Chave: Aprendizagem, Computacional, Engenharia
+Resumo: Este artigo apresenta um informacao vasta de informacao sobre Engenharia Computacional.
+Ano da Publicacao: 2019
+Dimensao da Audiencia: 300
+Nome: Universidade do Minho
+Data: 2/9
+Localizacao da revista: Braga
+
+== Publicacao 7 ==
+Publicacao artigo de revista
+Autores: Professor Cristana Rodrigues e J. Correia e J. Campos
+Titulo: Sensores sem fio em sistemas heterogêneos em rede
+Palavras Chave: Fios, Sistemas Heterogeneos, Rede
+Resumo: A flexibilidade, tolerância à falhas, baixo-custo e rápida instalação são características de uma rede de sensores que podem criar inúmeras aplicações para sensoriamento remoto.
+Ano da Publicacao: 2013
+Dimensao da Audiencia: 100
+Nome: Universidade de Evora
+Data: 17/5
+Localizacao da revista: Evora
+
+== Publicacao 8 ==
+Publicacao artigo de revista
+Autores: Professor Henrique Acores e F. Lopes e J. Fernandes
+Titulo: Sistema de Informática para Gestão de Fluxo de Informações.
+Palavras Chave: Gestao, Fluxo, Informacoes
+Resumo: A revolução da Informação exige, assim, mudanças profundas no modo como vemos a sociedade na organização e sua estrutura, o que se traduz num grande desafio: aproveitar as oportunidades, dominando os riscos inerentes ou submeter-se aos riscos com todas as incertezas que acarretam.
+Ano da Publicacao: 2016
+Dimensao da Audiencia: 400
+Nome: Gestao Informatica
+Data: 18/8
+Localizacao da revista: Guimaraes
+
+== Publicacao 9 ==
+Publicacao artigo de revista
+Autores: Professor Joana Matos e M. Barros
+Titulo: Sistema de Informática para Gerenciamento de E-mails Salvos.
+Palavras Chave: Gerenciamento, e-mails
+Resumo: Os Softwares para Gerenciamento de e-mails sao metodos de uma gestao mais eficaz e organizada destes e-mails. 
+Ano da Publicacao: 2016
+Dimensao da Audiencia: 700
+Nome: Gestao de Informacao
+Data: 17/4
+Localizacao da revista: Lisboa
+
+== Publicacao 10 ==
+Publicacao artigo de conferencia
+Autores: Professor Filipe Soeiro e A. Silva
+Titulo: Programação em Python: fundamentos e resolução de problemas.
+Palavras Chave: Python, Programacao
+Resumo: Para quem se inicia numa linguagem de programação, este artigo é uma ferramenta ideal para aprendizagem com muita informacao disponivel.
+Ano da Publicacao: 2019
+Dimensao da Audiencia: 1500
+Nome: Informaticos do Norte
+Data: 7/11
+Localizacao da conferencia: Porto
+
+== Publicacao 11 ==
+Publicacao artigo de conferencia
+Autores: Professor Andreia Garrido e J. Branco
+Titulo: Sistemas de Serviço: Conceitos, Modelagem e Programação
+Palavras Chave: Sistemas, Conceitos, Moldagem, Programacao
+Resumo: Apresentacao em diferentes perspetivas uma parte integrante dos mercados dos Sistemas de Servico.
+Ano da Publicacao: 2019
+Dimensao da Audiencia: 10000
+Nome: IPCA
+Data: 5/6
+Localizacao da conferencia: Braga
+
+== Publicacao 12 ==
+Publicacao artigo de conferencia
+Autores: Professor Penousal Machado e F. Lopes
+Titulo: Engenharia de Redes Informáticas, 10ª edicao Actualizada e Aumentada.
+Palavras Chave: Engenharia, Redes, 10º edicao
+Resumo: Está centrado no que há em comum das Telecomunicações e da Informática.
+Ano da Publicacao: 2019
+Dimensao da Audiencia: 400
+Nome: DEI
+Data: 2/10
+Localizacao da conferencia: Coimbra
+
+== Publicacao 13 ==
+Publicacao artigo de conferencia
+Autores: Professor Pedro Meira e J. Branco e A. Silva
+Titulo: Gestão de Fluxos de Trabalho. Modelos, metodos e sistemas.
+Palavras Chave: Fluxos, Modelos, Metodos
+Resumo: Abordo o necessário para os processos de um negócio.
+Ano da Publicacao: 2015
+Dimensao da Audiencia: 5000
+Nome: Polo 2
+Data: 4/8
+Localizacao da conferencia: Coimbra
+
+== Publicacao 14 ==
+Livro
+Autores: Professor Pedro Meira e M. Carvalho e M. Barros
+Titulo: Manual de Pesquisa sobre Modelagem de Processos de Negócios.
+Palavras Chave: Modelagem, Negocios, Processos
+Resumo: Atividade de representação dos processos de uma empresa.
+Ano da Publicacao: 2016
+Dimensao da Audiencia: 9900
+Editora: Viena
+ISBN do Livro: 9876543212999
+
+== Publicacao 15 ==
+Livro
+Autores: Professor Filipe Soeiro e J. Campos e J. Branco
+Titulo: Inteligência Artificial: fundamentos e aplicações.
+Palavras Chave: Inteligencia, artificial, aplicacoes
+Resumo: Fala sobre a inteligência similar á Humana, nos seus fundamentos e aplicações.
+Ano da Publicacao: 2015
+Dimensao da Audiencia: 4000
+Editora: Amazon
+ISBN do Livro: 9876543212010
+
+== Publicacao 16 ==
+Livro
+Autores: Professor Licinio Roque e F. Lopes e J. Mota
+Titulo: A comunidade de Eiras finais do seculo XVIII: estruturas, redes e dinâmicas sociais.
+Palavras Chave: Eiras, Seculo XVIII, redes, dinamicas sociais
+Resumo: Organização social, política e económica da Época Moderna.
+Ano da Publicacao: 2009
+Dimensao da Audiencia: 11000
+Editora: Viena
+ISBN do Livro: 9876543217070
+
+== Publicacao 17 ==
+Livro
+Autores: Professor Penousal Machado e A. Silva e S. Pinto
+Titulo: C# 2.0
+Palavras Chave: Linguagem, C, Programacao
+Resumo: Uma Versao mas recente do Livro C# que ensina tecnicas de programaçao na linguagem C# ainda mais eficazes.
+Ano da Publicacao: 2011
+Dimensao da Audiencia: 5500
+Editora: Novatec
+ISBN do Livro: 9876543211010
+
+== Publicacao 18 ==
+Capitulos de Livros
+Autores: Professor Filipe Soeiro e J. Campos e J. Boas
+Titulo: Um Mecanismo baseado em Classificação para Colocação de Serviços na Neblina.
+Palavras Chave: Neblina, Servicos
+Resumo: A forma como se classifica a colocação de serviços na Neblina de várias formas diferentes.
+Ano da Publicacao: 2020
+Dimensao da Audiencia: 10000
+Editora: Novatec
+ISBN do Livro: 9876543212159
+Nome do Capitulo: Servicos na Neblina Sintetizado
+Pagina de inicio: 109
+Pagina de Fim de Capitulo: 118
+
+== Publicacao 19 ==
+Capitulos de Livros
+Autores: Professor Henrique Acores e J. Fernandes e R. Matos
+Titulo: Fundamentos de Programação em Java 2.
+Palavras Chave: Programacao, java
+Resumo: Fundamentos necessarios para a criacao e execucao de aplicacoes Java.
+Ano da Publicacao: 2014
+Dimensao da Audiencia: 8000
+Editora: Viena
+ISBN do Livro: 9876543212543
+Nome do Capitulo: Principios de Programacao Java II
+Pagina de inicio: 40
+Pagina de Fim de Capitulo: 63
+
+== Publicacao 20 ==
+Capitulos de Livros
+Autores: Professor Nuno Lourenco e J. Correia e S. Garrido
+Titulo: Neuroevolução das Redes Contraditórias Geradoras, em Serie Desarmamento Natural.
+Palavras Chave: Neuroevolucao, Redes contraditorias, Desarmamento Natural
+Resumo: Evolucao dos dispositivos capazes de transformar tipos de energia.
+Ano da Publicacao: 2020
+Dimensao da Audiencia: 400
+Editora: Amazon
+ISBN do Livro: 9876543212392
+Nome do Capitulo: 11
+Pagina de inicio: 293
+Pagina de Fim de Capitulo: 322
+
+== Publicacao 21 ==
+Capitulos de Livros
+Autores: Professor Paulo Simoes e M. Barros e J. Costa
+Titulo: Identidades Visuais Dinâmicas: Explorando Mecanismos de Variação para Alcançar Flexibilidade.
+Palavras Chave: Identidades Visuais, flexibilidade
+Resumo: Formas flexíveis de representar visualmente, um nome, um produto, uma ideia, entre outras.
+Ano da Publicacao: 2020
+Dimensao da Audiencia: 250
+Editora: Novatec
+ISBN do Livro: 6509876543212
+Nome do Capitulo: 91
+Pagina de inicio: 104
+Pagina de Fim de Capitulo: 2
+
+== Publicacao 22 ==
+Livro de artigos de Conferencia
+Autores: Professor Joao Faria e A. Silva e A. Souto
+Titulo: Previsão de oxidos de Ozono e Nitrogenio para Monitoramento da Qualidade do Ar.
+Palavras Chave: Oxidos, ozono, nitrogenio, qualidade do ar
+Resumo: Previsões de Óxidos de Ozônio e Nitrogênio para a monetização da qualidade do ar.
+Ano da Publicacao: 2011
+Dimensao da Audiencia: 350
+Editora: Viena
+ISBN do Livro: 9876543212658
+Nome da Conferencia: Networking Conference
+Numero de Artigos: 15
+
+== Publicacao 23 ==
+Livro de artigos de Conferencia
+Autores: Professor Pedro Meira e Professor Paulo Simoes e M. Sousa
+Titulo: Ensino a distância versus ensino remoto de emergência: escolas de português em um ponto de virada para a transformação digital.
+Palavras Chave: ensino, distancia, remoto, escolas, digital
+Resumo: A forma como algumas escolas de português utilizam as novas tecnologias para o potenciar do ensino á distancia.
+Ano da Publicacao: 2020
+Dimensao da Audiencia: 1500
+Editora: Amazon
+ISBN do Livro: 9876543212277
+Nome da Conferencia: EvoAPPS2020
+Numero de Artigos: 14
+
+== Publicacao 24 ==
+Livro de artigos de Conferencia
+Autores: Professor Penousal Machado e S. Pinto e L. Garrido
+Titulo: Evolucao dos Gasodutos Scikit-Learn com Evolucao Gramatical Estruturada Dinamica.
+Palavras Chave: Gasodutos, Scikit-Learn, dinamica, elolucao
+Resumo: Evoluir no transportar de gás natural de um lugar para outro de forma dinâmica.
+Ano da Publicacao: 2019
+Dimensao da Audiencia: 150
+Editora: Novatec
+ISBN do Livro: 987654321393
+Nome da Conferencia: EvoAPPS2020
+Numero de Artigos: 10
+
+== Publicacao 25 ==
+Livro de artigos de Conferencia
+Autores: Professor Licinio Roque e J. Campos e Professor Cristana Rodrigues e C. Martins
+Titulo: Meta-Modelos de Aprendizagem Ativa para Simuladores de Transporte.
+Palavras Chave: Meta-Modelos, Simuladores, Transporte
+Resumo: Comunicacao em Contextos e experiencia em comunicacao em especifico para os Transportes.
+Ano da Publicacao: 2018
+Dimensao da Audiencia: 600
+Editora: Amazon
+ISBN do Livro: 9876543210163
+Nome da Conferencia: Geneticy Computation Conference
+Numero de Artigos: 30
+========= // =========
